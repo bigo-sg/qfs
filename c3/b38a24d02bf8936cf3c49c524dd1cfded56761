@@ -1,0 +1,47 @@
+docs/rfc/RFC-0001-memory-native-metadata-layer.md
+  s_9ce5048c28c282::t_ec6b35ba8915e4 660,662-664
+  s_9ce5048c28c282::t_4bee9a4a02102c 760-761,763,766
+  s_9ce5048c28c282::t_cd2587d71455a4 1018,1025
+  s_9ce5048c28c282::t_103c262eccb34f 118,121
+  s_9ce5048c28c282::t_557f6e2443ff1f 911-914
+  s_9ce5048c28c282::t_8670a7b17f79b5 518,522,582-583,616
+  s_9ce5048c28c282::t_70a5bdd931e617 714-716
+  s_9ce5048c28c282::t_8396966d269055 422,426-428
+  s_9ce5048c28c282::t_018ee139038ce1 722,726
+  s_9ce5048c28c282::t_b0e5576ed05fee 953-955
+  s_9ce5048c28c282::t_8947fd23c1dca3 179,184,192,200,202
+  s_9ce5048c28c282::t_97a9140d605180 727-728
+  s_9ce5048c28c282::t_5a61180d1a4275 368
+  s_9ce5048c28c282::t_e822ea70b4416f 631,633-637
+  s_9ce5048c28c282::t_a2b14b112d8450 108,552,690,893,970,995
+  s_9ce5048c28c282::t_b0a02af1ca6815 374,376-377
+  s_9ce5048c28c282::t_3c4b97ac8e19af 553-570,572-573,575
+  s_9ce5048c28c282::t_94f40edf3dde0b 593-594,600-601
+  s_9ce5048c28c282::t_49ba654bc29433 354-362,367
+  s_9ce5048c28c282::t_dff5a838e59e0c 674,679,681,951
+  s_9ce5048c28c282::t_3f8ceda89e3dbe 798,805
+  s_9ce5048c28c282::t_17b23d4fdd313e 373
+  s_9ce5048c28c282::t_90211c850e6516 774-775,784
+  s_9ce5048c28c282::t_850a5afabf9bed 807-827
+  s_9ce5048c28c282::t_53070a2fbabfe8 122,197,219,223,227,253
+  s_9ce5048c28c282::t_2378e1fd7a9619 475
+  s_9ce5048c28c282::t_6ca77518534884 395-396
+  s_9ce5048c28c282::t_9f2ece4846af00 140,571,603,683,694,909,930,952,1022,1024
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "c3b38a24d02bf8936cf3c49c524dd1cfded56761",
+  "prompts": {},
+  "logical_commit_id": "c3b38a24d02bf8936cf3c49c524dd1cfded56761",
+  "sessions": {
+    "s_9ce5048c28c282": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e5dc9-6c91-7160-a7d9-d33825ebcad7",
+        "model": "gpt-5.5"
+      },
+      "human_author": "zhangzhibiao <zhangzhibiao@bigo.sg>"
+    }
+  }
+}
