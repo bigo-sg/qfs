@@ -1,0 +1,30 @@
+benchmarks/mstress/mstress_client.cc
+  s_116f9a11ba74bc::t_6351a179238902 39,188,190,344,434,441,443,467,470,473-475,484-486,547
+  s_116f9a11ba74bc::t_91a57827116a10 488-494,496
+benchmarks/mstress/mstress_run.py
+  s_116f9a11ba74bc::t_3496a0386b3a61 48
+  s_116f9a11ba74bc::t_6144f1391c8102 139,144-145,150,157-162
+  s_116f9a11ba74bc::t_91a57827116a10 141-142
+benchmarks/mstress/mstress_plan.py
+  s_116f9a11ba74bc::t_3496a0386b3a61 186-188,201-203
+benchmarks/mstress/mstress.py
+  s_116f9a11ba74bc::t_262f4cc6ddcf25 181-184
+  s_116f9a11ba74bc::t_48c0dc4125fdc6 165-178,204,215,225,236,239,288-292,294-311,352,468
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "b2fcfb5262794690a6e06538509b2728bced1715",
+  "prompts": {},
+  "logical_commit_id": "b2fcfb5262794690a6e06538509b2728bced1715",
+  "sessions": {
+    "s_116f9a11ba74bc": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e500f-b027-7242-b974-7a5f0ad2a52b",
+        "model": "gpt-5.5"
+      },
+      "human_author": "zhangzhibiao <zhangzhibiao@bigo.sg>"
+    }
+  }
+}
