@@ -1,0 +1,28 @@
+docs/rfc/RFC-0001-memory-native-metadata-layer.md
+  s_5aad186cad02ef::t_bda283bd15b2f0 469
+  s_5aad186cad02ef::t_31d0b4a89aa585 692-704
+  s_5aad186cad02ef::t_98e66c9230fe99 281-290
+  s_5aad186cad02ef::t_0f33e95837fb5a 626-635,637-639,641
+  s_5aad186cad02ef::t_9f52c4c1a9f253 461
+  s_5aad186cad02ef::t_2d086b62c0ccff 590,592
+  s_5aad186cad02ef::t_22aadcd1e0eab9 880-881,883,885
+  s_5aad186cad02ef::t_3d3eebc5aadaf4 952
+  s_5aad186cad02ef::t_49cfc794bd233f 431,433,436-438,444-445
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "469b735db745c9758e157950ae84fd426a20bb1b",
+  "prompts": {},
+  "logical_commit_id": "469b735db745c9758e157950ae84fd426a20bb1b",
+  "sessions": {
+    "s_5aad186cad02ef": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5497ca33-664f-4250-911e-0c22947c43a4",
+        "model": "default"
+      },
+      "human_author": "zhangzhibiao <zhangzhibiao@bigo.sg>"
+    }
+  }
+}
